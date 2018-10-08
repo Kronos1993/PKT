@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_ac2c5face94ec2a75aefba19f3d563440646ce8b\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51e0941a89ddcc294667688b76f1239522b3f518">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_83c9a2c9a4736a105ee0132d17a893da119d956f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Marcos_Guerra\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_b263f410de6ca68be873961d61dac4049fa1c41f\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1df33330dde6f1e6523da0ad466a536a8e02b1e0\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_16356cca64a2b9bafe6bca6405b19720262fc76d\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ab7951e9b2e4e8b90a0a62dfe3746606d1cb8413\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_53c326315c2c9d7ada3f6419d88f9b641b192384\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_a6e6d0c69e3e80d2e8bd1db8042ac514f1d6d04b\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\libs\ormlite-core-5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-core-5.0_e06f48d8507f544adf21f7ba0f08e2f65786bb4a\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\libs\stream-1.1.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a71f0635ac38194d70094e53f6fd89e00a93c834">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\2\stream-1.1.7_63c35ba7531920f021ff904f3edf838b64545ecb\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\libs\ormlite-android-5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-android-5.0_1d67f055e07e724471a890828ecd817cfc373d07\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5e1caae610e4fbe00904949e78f1ca982a6bdbf">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_de036c114df60c6b29ab679b7e163f92e3c40f0c\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_39c3dfad67193693354dc46df884d4428cd431e5\classes.dex" />
+    </item>
+    <item
+        jar="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="F:\Proyectos\Project whit Negra\PQTDelivery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_a636126f41034ff1c0ddf2ff6cec13f72b5be108\classes.dex" />
+    </item>
+
+</items>
